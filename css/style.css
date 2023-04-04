@@ -97,14 +97,7 @@ main>section{
     padding: 4rem 0;
 }
 
-/* TODO Rimuovere dopo i contenuti*/
-main section div.blue-column,
-main section div.pink-column,
-main section div.big-column{
-    height: 500px;
-}
-
-main section div.blue-column{
+main section div.img-column{
     
     width: 60%;
 }
