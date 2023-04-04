@@ -64,7 +64,9 @@ section.upper nav {
 section.upper nav ul{
     list-style-type: none;
     padding: .5rem 1rem;
-    justify-content: center;
+    justify-content: space-around;
+    font-size: 1.5rem;
+    color: white;
 }
 
 section.upper nav ul li{
