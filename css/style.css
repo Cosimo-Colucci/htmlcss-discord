@@ -92,6 +92,12 @@ section.jumbotron .hero{
     width: 75%;
 }
 
+button{
+    margin: .5rem .5rem;
+    padding: 0.5rem 1.5rem;
+    border-radius: 18px;
+}
+
 main>section{
     padding: 4rem 0;
 }
