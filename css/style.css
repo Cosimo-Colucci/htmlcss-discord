@@ -30,9 +30,6 @@
     border: 2px dashed white;
 }
 
-.background-gold{
-    background-color: #d9a420;
-}
 
 .background-gray{
     background-color: #d2d2d2;
@@ -48,7 +45,7 @@ body{
 }
 
 header{
-    background-color: #acd7e5;
+    background-image: url(../img/jumbo.png);
     /* padding-bottom: 5px; */
 }
 
@@ -86,13 +83,11 @@ section.upper div.login{
 }
 
 header section.jumbotron{
-    background-color: #00008a;
     /* height: 550px; */
     padding: 4rem 0;
 }
 
 section.jumbotron .hero{
-    background-color: #ed81ed;
     height: 400px;
     width: 75%;
 }
