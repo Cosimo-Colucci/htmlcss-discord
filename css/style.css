@@ -10,7 +10,9 @@
 }
 
 .margin-auto{
-    margin: auto;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 2rem;
 }
 
 .height-100{
