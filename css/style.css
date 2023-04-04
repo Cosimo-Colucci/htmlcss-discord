@@ -24,15 +24,6 @@
     margin: 0 auto;
 }
 
-.dashed-border{
-    border: 2px dashed black;
-}
-
-.dashed-border-white{
-    border: 2px dashed white;
-}
-
-
 .background-gray{
     background-color: #d2d2d2;
 }
