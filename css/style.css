@@ -39,7 +39,7 @@ body{
 
 header{
     background-image: url(../img/jumbo.png);
-    background-size: 100%;
+    background-size: cover;
 }
 
 header section.upper{
